@@ -1,0 +1,3 @@
+At Anaconda command prompt, type
+C:\xampp\mysql\bin\mysql -u "testUser" -p "personnel-department" < Mysql1.sql > mysql_output.txt
+Give the password: A4min@123
